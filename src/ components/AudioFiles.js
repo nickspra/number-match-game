@@ -1,0 +1,13 @@
+import opening from '../assets/audio/floyd_and_roly_need_your_help_to_knock.ogg';
+import one from '../assets/audio/numbers/1.ogg';
+import two from '../assets/audio/numbers/2.ogg';
+import three from '../assets/audio/numbers/3.ogg';
+import four from '../assets/audio/numbers/4.ogg';
+import five from '../assets/audio/numbers/5.ogg';
+import six from '../assets/audio/numbers/6.ogg';
+import seven from '../assets/audio/numbers/7.ogg';
+import eight from '../assets/audio/numbers/8.ogg';
+import nine from '../assets/audio/numbers/9.ogg';
+import wrong from '../assets/audio/oops_thats.ogg';
+import findNumber from '../assets/audio/prompts/find_the_number.ogg';
+export default {opening, one, two, three, four, five, six, seven, eight, nine, wrong, findNumber};
