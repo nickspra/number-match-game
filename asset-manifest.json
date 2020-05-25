@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fef1c43.chunk.css",
-    "main.js": "/static/js/main.3053624c.chunk.js",
-    "main.js.map": "/static/js/main.3053624c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a62893b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a62893b7.js.map",
-    "static/js/2.d8a92e08.chunk.js": "/static/js/2.d8a92e08.chunk.js",
-    "static/js/2.d8a92e08.chunk.js.map": "/static/js/2.d8a92e08.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c561529f04dc1da319881c48d530c03f.js": "/precache-manifest.c561529f04dc1da319881c48d530c03f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7fef1c43.chunk.css.map": "/static/css/main.7fef1c43.chunk.css.map",
-    "static/js/2.d8a92e08.chunk.js.LICENSE.txt": "/static/js/2.d8a92e08.chunk.js.LICENSE.txt"
+    "main.css": "/number-match-game/static/css/main.7fef1c43.chunk.css",
+    "main.js": "/number-match-game/static/js/main.7b253377.chunk.js",
+    "main.js.map": "/number-match-game/static/js/main.7b253377.chunk.js.map",
+    "runtime-main.js": "/number-match-game/static/js/runtime-main.05c77903.js",
+    "runtime-main.js.map": "/number-match-game/static/js/runtime-main.05c77903.js.map",
+    "static/js/2.d8a92e08.chunk.js": "/number-match-game/static/js/2.d8a92e08.chunk.js",
+    "static/js/2.d8a92e08.chunk.js.map": "/number-match-game/static/js/2.d8a92e08.chunk.js.map",
+    "index.html": "/number-match-game/index.html",
+    "precache-manifest.247818f8abb19632895ccb5917b30f7d.js": "/number-match-game/precache-manifest.247818f8abb19632895ccb5917b30f7d.js",
+    "service-worker.js": "/number-match-game/service-worker.js",
+    "static/css/main.7fef1c43.chunk.css.map": "/number-match-game/static/css/main.7fef1c43.chunk.css.map",
+    "static/js/2.d8a92e08.chunk.js.LICENSE.txt": "/number-match-game/static/js/2.d8a92e08.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a62893b7.js",
+    "static/js/runtime-main.05c77903.js",
     "static/js/2.d8a92e08.chunk.js",
     "static/css/main.7fef1c43.chunk.css",
-    "static/js/main.3053624c.chunk.js"
+    "static/js/main.7b253377.chunk.js"
   ]
 }
