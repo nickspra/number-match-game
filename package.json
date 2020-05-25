@@ -33,8 +33,8 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://nickspra.github.io/",
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  },
-  "homepage": "https://www.nickspra.github.io/number-match-game"
+  }
 }
