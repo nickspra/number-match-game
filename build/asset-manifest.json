@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/number-match-game/static/css/main.7fef1c43.chunk.css",
+    "main.js": "/number-match-game/static/js/main.7b253377.chunk.js",
+    "main.js.map": "/number-match-game/static/js/main.7b253377.chunk.js.map",
+    "runtime-main.js": "/number-match-game/static/js/runtime-main.05c77903.js",
+    "runtime-main.js.map": "/number-match-game/static/js/runtime-main.05c77903.js.map",
+    "static/js/2.d8a92e08.chunk.js": "/number-match-game/static/js/2.d8a92e08.chunk.js",
+    "static/js/2.d8a92e08.chunk.js.map": "/number-match-game/static/js/2.d8a92e08.chunk.js.map",
+    "index.html": "/number-match-game/index.html",
+    "precache-manifest.838453ae7e52f51d27325fb04c54c6cd.js": "/number-match-game/precache-manifest.838453ae7e52f51d27325fb04c54c6cd.js",
+    "service-worker.js": "/number-match-game/service-worker.js",
+    "static/css/main.7fef1c43.chunk.css.map": "/number-match-game/static/css/main.7fef1c43.chunk.css.map",
+    "static/js/2.d8a92e08.chunk.js.LICENSE.txt": "/number-match-game/static/js/2.d8a92e08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05c77903.js",
+    "static/js/2.d8a92e08.chunk.js",
+    "static/css/main.7fef1c43.chunk.css",
+    "static/js/main.7b253377.chunk.js"
+  ]
+}
